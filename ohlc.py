@@ -30,7 +30,7 @@ def get_ohlc_data(symbol: str, api_key: str) -> str:
         
 
 
-# url = 'https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol=SBIN.BSE&apikey=QFYT9BLL9AJZA5VN'
+# url = 'https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol=SBIN.BSE&apikey='
 # r = requests.get(url)
 # data = r.json().get('Time Series (Daily)', {})
 

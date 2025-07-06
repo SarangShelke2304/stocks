@@ -1,6 +1,6 @@
 import requests
 
-# url = 'https://www.alphavantage.co/query?function=SYMBOL_SEARCH&keywords=SBIN&apikey=QFYT9BLL9AJZA5VN'
+# url = 'https://www.alphavantage.co/query?function=SYMBOL_SEARCH&keywords=SBIN&apikey='
 # r = requests.get(url)
 # data = r.json()
 
